@@ -1,14 +1,17 @@
-#block h1, #block h2{
+#block, .bbb
+{
 	text-align: center;
 	color: purple;
 	font-size: 20px;
 }
-#block h3{
+.fff, h2.xxx
+{
 	text-align: center;
 	color: orange;
 	font-size: 20px;
 }
-.xxx, .eee, h2.zzz{
+.xxx
+{
 	text-align: center;
 	color: yellow;
 }
