@@ -1,25 +1,9 @@
-.success {
-	color: green;
-}
-.error {
+#cange1 {
 	color: red;
 }
-.large {
-	font-size: 30px;
+#cange2 {
+	color: green;
 }
-.small {
-	font-size: 20px;
-}
-.very
-{
-	font-size: x-large;
-}
-.fine
-{
-	color: yellow;
-	font-size: 25px;
-}
-.bad
-{
+#cange3 {
 	color: blue;
 }
