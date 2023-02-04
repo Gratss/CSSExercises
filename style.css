@@ -1,3 +1,11 @@
-main * p {
-	color: blue;
+main * title {
+	color: orange;
+}
+main * link
+{
+	color: purple;
+}
+main * .top
+{
+	color: yellow;
 }
