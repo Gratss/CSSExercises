@@ -7,20 +7,20 @@ body {
 }
 
 .wrapper {
-	background-color: green;
+	background-color: purple;
     margin-bottom: 30px;
 }
 
 .wrapper.line {
-
-    color: wheat;
+    background-color: orange;
+    color: white;
 }
 
 .center1 {
     width: 3600px;
     padding-left: 400px;
     margin: 0 auto;
-    color:gray;
+    color:white;
 }
 
 .center {
